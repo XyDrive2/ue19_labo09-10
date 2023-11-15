@@ -2,8 +2,7 @@
 --------------- Description ---------------
 Une application Python 3 qui utilise la librairie requests pour interroger un service d'API publique. Pour notre exemple cette application va interrofer le service PunAPI pour afficher un jeu de mot
 
---------------- How to Install and Run the Project ---------------
-
+## docker App.py-install
 1) Dans un environnement linux, Installez les 4 fichiers, et les mettres dans le même directory.
 2) ouvrir un shell et exécutez le build du Dockerfile pour obtenir un Docker Image
 ```shell
@@ -14,8 +13,11 @@ docker build -t my-python-app .
 docker run -it --rm --name my-running-app my-python-app
 ```
 
---------------- How to Use the Project ---------------
+## Usage:
 
 
 
---------------- Add a License ---------------
+
+## Legal
+*Il est de votre responsabilité de vous assurer que votre utilisation et/ou votre transfert n'enfreint pas les lois applicables.
+ne violent pas les lois applicables.*
