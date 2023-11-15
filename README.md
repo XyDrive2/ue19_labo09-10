@@ -2,7 +2,8 @@
 Une application Python 3 qui utilise la librairie requests pour interroger un service d'API publique. Pour notre exemple cette application va interrofer le service PunAPI pour afficher un jeu de mot
 
 ## docker App.py-install
-Depuis 'https://github.com/XyDrive2/ue19_labo09-10':
+
+Depuis le directory github:
 installez ce git et mettez tous les fichiers dans le meme directory
 Depuis 'shell linux':
 Exécutez le build du Dockerfile pour obtenir un Docker Image
